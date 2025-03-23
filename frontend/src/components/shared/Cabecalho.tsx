@@ -15,7 +15,7 @@ export default function Cabecalho() {
 				</div>
 				<div className="hidden sm:flex items-center">
 					<Link
-						href="https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/"
+						href="https://www.linkedin.com/in/felipe-mascena"
 						target="_blank"
 						className="bg-red-500 rounded-full px-7 py-1 text-sm font-bold"
 					>
